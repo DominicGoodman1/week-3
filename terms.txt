@@ -1,0 +1,12 @@
+● Function
+● Function
+Declaration
+● Function Call
+● Arguments
+● Type Casting
+● Implicit
+Conversion
+● Explicit
+Converstion*
+● Modulo
+● Constant
